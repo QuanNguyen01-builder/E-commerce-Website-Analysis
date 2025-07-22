@@ -1,0 +1,9 @@
+"rules","support","confidence","coverage","lift","count"
+"{YouTube Custom Decals} => {Google Laptop and Cell Phone Stickers}",0.00534695343362196,0.31980906921241,0.0167192051394597,9.9438400540102,134
+"{Google Laptop and Cell Phone Stickers} => {YouTube Custom Decals}",0.00534695343362196,0.166253101736973,0.0321615258768605,9.9438400540102,134
+"{Nest Cam Outdoor Security Camera - USA} => {Nest Cam Indoor Security Camera - USA}",0.0276525278320897,0.208233173076923,0.132795977814134,1.6156444428733,693
+"{Nest Cam Indoor Security Camera - USA} => {Nest Cam Outdoor Security Camera - USA}",0.0276525278320897,0.214551083591331,0.128885519332828,1.6156444428733,693
+"{Nest Protect Smoke + CO White Wired Alarm-USA} => {Nest Learning Thermostat 3rd Gen-USA - Stainless Steel}",0.00722237739914608,0.169953051643192,0.0424963090060253,1.21309980838224,181
+"{Nest Protect Smoke + CO White Battery Alarm-USA} => {Nest Learning Thermostat 3rd Gen-USA - Stainless Steel}",0.00901799608954152,0.166054371785452,0.0543074897250708,1.18527160675455,226
+"{Nest Protect Smoke + CO White Battery Alarm-USA} => {Nest Cam Outdoor Security Camera - USA}",0.00766130641235386,0.141072740631888,0.0543074897250708,1.06232690894704,192
+"{Nest Protect Smoke + CO White Battery Alarm-USA} => {Nest Cam Indoor Security Camera - USA}",0.00598539563465145,0.110213078618663,0.0543074897250708,0.855123827635389,150
