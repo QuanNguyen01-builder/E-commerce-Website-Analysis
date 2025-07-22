@@ -5,7 +5,7 @@ The goal is to generate actionable insights for marketing, cross-selling, and cu
 
 ## 📊 Data Source
 
-- **Dataset**: [Kaggle E-Commerce Data]([https://www.kaggle.com/datasets/rishikumarrajvansh/marketing-insights-for-e-commerce-company/data])  
+- **Dataset**: [Kaggle E-Commerce Data][https://www.kaggle.com/datasets/rishikumarrajvansh/marketing-insights-for-e-commerce-company/data]  
   The data contains transaction-level sales, customer demographics, product details, discount usage, marketing spend, and tax rates.
 
 > *Note: The original data files used for analysis are not included in this repo due to copyright. Please download them directly from Kaggle and place them in your working directory.*
